@@ -6,6 +6,8 @@ Otwarty indeks polskiego Webu to udostępniany do wolnego wykorzystania zbiór s
 
 Wszystkie adresy URL w indeksie zostały sprawdzone pod kątem ich dostępności w archiwach Webu.
 
+Skorzystaj z 103086 zidentyfikowanych stron i 4066758 zidentyfikowanych tweetów (stan na 05-11-2021).
+
 Ze względu na ograniczenia prawa autorskiego i regulaminu platformy Twitter ASPW nie udostępnia treści tweetów, treści stron internetowych oraz odnośników do kopii tych stron w archiwach Webu.
 
 Zobacz więcej na https://aspw.pl/informacje
